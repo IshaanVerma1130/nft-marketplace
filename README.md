@@ -7,4 +7,4 @@
 2. Next.js
 3. TailwindCSS
 4. Hardhat
-5. Waffl
+5. Waffle
